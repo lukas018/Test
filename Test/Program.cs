@@ -14,9 +14,10 @@ namespace Test
         [STAThread]
         static void Main()
         {
-
             int i = 0;
             int y = 2;
+
+            int z = 1;
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
