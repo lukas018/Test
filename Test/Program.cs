@@ -17,6 +17,9 @@ namespace Test
             int i = 0;
             int y = 2;
 
+
+
+            int a = 1;
             int z = 1;
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
